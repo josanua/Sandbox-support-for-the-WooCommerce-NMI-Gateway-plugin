@@ -58,3 +58,5 @@ When to use it
 
 Quiet code. Predictable behavior.
 Exactly what you want in a payment gateway fix.
+
+### Can read more about here https://wpforpro.com/woocommerce-nmi-plugin-sandbox-fix/
